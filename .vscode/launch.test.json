@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "leet-code",
+                "projectName": "leet-code",
+                "workingDirectory": "c:\\Users\\ericj\\Documents\\LeetCode\\LeetCodeJava",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "leet-code",
+                "projectName": "leet-code",
+                "workingDirectory": "c:\\Users\\ericj\\Documents\\LeetCode\\LeetCodeJava",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
